@@ -1,0 +1,5 @@
+/Users/TaHuC/Projects/RefactorVolumeOfPiramid/RefactorVolumeOfPiramid/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/TaHuC/Projects/RefactorVolumeOfPiramid/RefactorVolumeOfPiramid/bin/Debug/RefactorVolumeOfPiramid.exe.mdb
+/Users/TaHuC/Projects/RefactorVolumeOfPiramid/RefactorVolumeOfPiramid/bin/Debug/RefactorVolumeOfPiramid.exe
+/Users/TaHuC/Projects/RefactorVolumeOfPiramid/RefactorVolumeOfPiramid/obj/x86/Debug/RefactorVolumeOfPiramid.exe
+/Users/TaHuC/Projects/RefactorVolumeOfPiramid/RefactorVolumeOfPiramid/obj/x86/Debug/RefactorVolumeOfPiramid.exe.mdb
